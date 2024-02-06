@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/julie/Documents/Harvard-CS50/Linguagem_C-CS50-Harvard/mario",
-      "program": "c:/Users/julie/Documents/Harvard-CS50/Linguagem_C-CS50-Harvard/mario/build/Debug/outDebug",
+      "cwd": "c:/Users/julie/Documents/Harvard-CS50/Linguagem_C-CS50-Harvard/algoritmo_guloso",
+      "program": "c:/Users/julie/Documents/Harvard-CS50/Linguagem_C-CS50-Harvard/algoritmo_guloso/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
